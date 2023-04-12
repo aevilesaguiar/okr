@@ -219,8 +219,47 @@ KR( Key Results)                 -> Estamos atingindo o Objetivo?               
     
 KPI(Key Performance Indicators)  -> Em que consições estamos atingindo o objetivo? -> Métrica de Controle
 
+![image](https://user-images.githubusercontent.com/52088444/231547546-9268dcfe-621c-4a90-b899-da5bb9bd3eb7.png)
+ 
+ Paralelo aos Key results podemos ter diversos KPI
+ 
+ ![image](https://user-images.githubusercontent.com/52088444/231548041-7524d985-1d54-4f7b-bcbc-f9bcd9770029.png)
+
+Todo KR já foi um KPI, o KR está dentro dos KPIS, a diferença entre eles é que num KPI eu estou controlando dentro de uma zona de controle Limite superior e inferior e um KR eu tenho uma meta atrelada. Um KR trabalhamos com numero de 3 a 5, enquanto que o KPI podemos ter n's, não tem limite .
 
 
+## Definição de metas
+
+Quando falamos de metas, estamos falando especificamente de Key Results. 
+
+Fundamentos para se criar boas metas
+
+- 1 deve provocar mudanças de patamar
+- 2 - embasadas por dados e pelos os times, antes de propor uma meta é necessário trazer o máximo de fundamentos possiveis, analises , benchmark ..., os times precisam participar da contrução e propor as metas.
+- 3 - alinhamento estratégico, exe se a cia tem um desafio estratégico de bater 50 milhões em vendas não adianta o time propor 10 milhões, se isso ocorrer ou a mesta estratégica precisa ser revista ou os times precisam rever qual o embasamento para chegar nesses valores
+- 4 - Apoio e motivação da liderança , a liderança precisa estar perto dar suporte , ser um agente motivador participativo;
+
+Tipos de Metas
+
+Tipo                            |    Características
+ROOFSHOT(tiros no telhado)      |     são as metas difíceis, mas possíveis de serem realizadas. Entende-se que um objetivo roofshot é atingido quando os key results                                 |     são 100% concluídos. a distribuição de metas será de 85 a 90% distribuídos dentro da minha organização    
+                                |     Exigem melhorias incrementais. Ex: Ajustes de processos, conserto de bugs, teste A/B para avaliar novas funcionalidades     
+                                |     e formatos que convertem mais.
+                                |     Exemplo: Reduzir o tempo médio de atendimento de 7 dias para 5 dias(redução de 28.5%)
+                                |     Revisar como os problemas estão sendo catalogados, ajustar as filas de atendimento e os processos de encaminhamento
+                                |     de ticket, analisar primeiramente como está o processo
+                                |     Quando usar cada uma?
+                                |     Pouca maturidade, times em formação ou times com posição mais junior, ou com recursos limitados  
+                                |
+moonshot( tiro para a lua)      |     são metas mais ambiciosas que deslocam o time da zona de conforto de forma significativa e quase nem sempre são atingidos em                                   |     sua integralidade-> 60 a 70 % atingimento, a distribuição de metas será de 10 a 15% distribuidos dentro da minha organização
+                                |     Exigem melhorias disruptivas, Revisar todo o processo, adquirir uma máquina ou software novo, ccontratar pessoas/serviços
+                                |     especializados.
+                                |     Exemplo: Reduzir o tempo médio de atendimento de 7 dias para 1 h(redução de 99.4%)
+                                |     Capacitar os atendentes e dar ferramental para que eles possam resolver sozinhos o problema e não delegar para
+                                |     outros times
+                                |     Quando usar cada uma?
+                                |     Times que possuem mais de 1 ano de formação, profissionais mais seniores e que podem ter acesso a 
+                                |     fontes adicionais de recursos.
 ## Referencias
 
 - https://www.mauricioboesche.com/post/n%C3%A3o-confunda-objetivo-com-iniciativa
