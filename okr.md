@@ -122,9 +122,111 @@ Recomendações
 
 FAIL, FAST, LEARN FASTER!!
 Erre rápido e aprenda mais rápido ainda.
+
+## Componentes Básicos de um OKR
+
+- Objetivos( O que queremos?)
+- Key Results (Estamos atingindo?)
+- Iniciativas(O que faremos para atingir?)
+
+
+## Iniciativas( O que faremos para atingir?)
+
+.1 - Iniciativa nada mais é que Apostas ou hipóteses
+.2 - Uma iniciativa é uma ação , projeto, entrega, teste, ela não pode ser traduzido como um key result
+.3 - Iniciativa não é top Down(alta gestão), ela tem que partir dos times, não deve ser imposta, a inovação surge do entendimento dos times com relação aos objetivos, e do processo de teste, do erro e do aprendizado, a alta gestão pode sugerir iniciativas , mas não deve impor.
+.4 - Quebrar em pequenas entregas(SCRUM), ou seja quebrar o projeto em pequenas entregas , pois dessa forma a equipe consegue rapidamente corrigir ou pivotar.
+
+## Podemos ter métricas de controle para as iniciativas?
+
+**Objetivos**: Lançar com sucesso o Produto A em ambito Nacional
+
+
+**Iniciativas**                                                        **métricas de controle**
+I.1- Fazer postagens no facebook comunicando o lançamento              #postagens #visualizações  #Engajamento, qual o nivel de visualização, engajamento post.
+I.2 - Treinar pessoas na Central de atendimento                        #Pessaos capacitadas, qual a nota Nota Avaliação do treinamento
+I.3 - Enviar notificações para os usuários cadastrados                 #número de push enviados  %taxa de abertura
+
+
+
+## OKR e os 3E's da gestão empresarial: Eficácia, eficiência e efetividade.
+
+⚡Eficácia, eficiência, efetividade, termos que nos confundem, mas que são importantes de serem elucidados.
+
+
+
+- ✅Eficácia foca em atingir o resultado. 
+
+“Sei aonde preciso chegar, não sei bem o caminho, mas farei de tudo para chegar lá.”
+
+
+A metodologia OKR nos ajuda a ser mais mais eficaz, uma vez que comunica e direciona os resultados a serem alcançados, além de quantificar a distância a ser perseguida. Os times a qualquer momento sabem dizer onde estão e a que distância estão do resultado.  
+
+
+Exemplos de métricas de eficácia nos negócios: Receita, Vendas, Assinaturas, Transações, Usuários ativos.
+![image](https://user-images.githubusercontent.com/52088444/231542368-708d49c8-0ea1-4806-b9e2-26640cf24db2.png)
+
+
+
+
+- ✅Eficiência foca em reduzir esforço (tempo, custo, desperdício).
+
+“Não sei bem aonde vou chegar, mas o caminho escolhido será percorrido da melhor forma possível.”
+
+
+Métodos e frameworks ágeis como Kanban e Scrum são exemplos de práticas que nos ajudam a ser mais eficientes, pois organizam processos que contribuem para redução de tempo, custo e desperdício. Entretanto, a eficiência só é benéfica quando orientada a um resultado. Muitas empresas inflam suas equipes com agile coaches e scrum masters, mas não comunicam com clareza a estratégia e os resultados a serem alcançados.
+
+
+Reduzir esforço para se chegar a qualquer lugar é ser eficiente em não ser eficaz. 
+
+
+Exemplos de métricas de eficiência: Lead Time, Cycle Time, Throughput, Wait time, Custo.
+
+![image](https://user-images.githubusercontent.com/52088444/231542455-0cbe38fa-18ad-44f2-94be-ff630723ddce.png)
+
+
+- ✅Efetividade foca em atingir o resultado com menor esforço possível.
+
+“Sei aonde preciso chegar, conheço um caminho e vou percorrê-lo da melhor forma possível.”
+
+
+Muitas empresas com estratégias e modelos extremamente eficazes, que apresentaram recente crescimento exponencial e valuation bilionário estão passando por processos de reestruturação - cortes de gastos, pessoas e investimentos - principalmente, entre outras causas, em virtude da baixa efetividade na gestão dos negócios.
+
+
+Por quê? Crescimento >> Eficiência: Crescer é mais importante que ser eficiente.
+
+Consequência disso: insustentabilidade. O negócio não consegue se retroalimentar de recursos próprios, precisando sempre recorrer a fontes externas para se manter vivo. 
+
+
+Para evitar isso, recomenda-se o uso dos OKR junto a outros métodos, frameworks e práticas ágeis como Kanban e Scrum para se buscar eficácia com eficiência, resultando, então, em maior efetividade.
+
+
+Exemplos de métricas de efetividade: Ebitda, ROI, Cash Flow.
+
+![image](https://user-images.githubusercontent.com/52088444/231542562-fcee9de0-fe32-4c3b-8d42-82e1fe46b62b.png)
+
+
+💡Portanto, tão importante quanto atingir resultados é ser eficiente na busca desses resultados. Parece algo óbvio e trivial, mas não é a realidade de muitas empresas. 
+
+
+
+![image](https://user-images.githubusercontent.com/52088444/231542613-e65c1cad-59b3-41d2-a87b-d52bdef9a3c7.png)
+
+
+## Diferença entre KR e KPI
+
+KR( Key Results)                 -> Estamos atingindo o Objetivo?                  -> Métrica de Sucesso
+    
+KPI(Key Performance Indicators)  -> Em que consições estamos atingindo o objetivo? -> Métrica de Controle
+
+
+
 ## Referencias
 
 - https://www.mauricioboesche.com/post/n%C3%A3o-confunda-objetivo-com-iniciativa
 - https://www.mauricioboesche.com/post/todo-objetivo-deve-ter-um-respons%C3%A1vel-mas-respons%C3%A1vel-por-o-qu%C3%AA
+- https://www.mauricioboesche.com/post/okr-e-covid-19-como-a-metodologia-pode-ajudar-empresas-a-serem-mais-%C3%A1geis-e-eficientes-na-pandemia
+- https://www.mauricioboesche.com/post/okrs-e-os-3e-s-da-gest%C3%A3o-empresarial-efic%C3%A1cia-efici%C3%AAncia-e-efetividade
+- 
 
 
