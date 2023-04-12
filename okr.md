@@ -87,8 +87,41 @@ CORRETOS
 
 ![image](https://user-images.githubusercontent.com/52088444/231497215-8c59d81c-3567-4ed2-abb9-64400558b211.png)
 
+## Key Results
+
+Possuem 4 características importantes
+- 1  quantitativo
+- 2 mensuravel e disponivel
+- 3 tem baseline e target
+- 4 Não medem atividades , projetos ou iniciativas
+
+## Definindo Key Results (Estamos atingindo?)
+
+- Aumentar a métrica A de X(BASELINE)  para Y(TARGET)
+- Reduzir a métrica B de X para Y
+- Atingir o valor de X na métrica C.
+- Manter a métrica B em X.
+
+o KEY RESULTS PRECIA TER UMA DESSAS FORMAS, AUMENTAR, REDUZIRS, ATINGIR OU MANTER.
+
+Diferentes dos objetivos, eles precisam ter uma meta , numero precisam ser quantitativos, vão ter um numero. 
+Precisa ser mensurável
+Tem que ter baseline(ponto de partida , mesmo que seja 0) e target(ponto de chegada)
+Não devem medir atividades, projetos ou iniciativas, 
 
 
+- KR.1 - Atingir 5000 usuários na primeira semana
+- KR.2 - Atingir o rating de 4,5 na app store
+- KR.3 -Atingir 60% de retenção D+1;( DE 60% QUE USEM O APLICATIVO 1 VOLTE)
+
+Recomendações
+
+- Sempre questionar se os KRs PROPOSTOS RESPONDEM A PERGUNTA PRINCIPAL: Estamos atingindo nosso objetivo?
+- Trabalhar com no máximo 5 KRs por objetivo
+- Priorizar métricas que possam ser medidas com frequencia diária/semanal.
+
+FAIL, FAST, LEARN FASTER!!
+Erre rápido e aprenda mais rápido ainda.
 ## Referencias
 
 - https://www.mauricioboesche.com/post/n%C3%A3o-confunda-objetivo-com-iniciativa
