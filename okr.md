@@ -50,8 +50,43 @@ Todo objetivo deve, primordialmente, responder a seguinte pergunta: “O que que
 
 Vejamos alguns exemplos:
 
+![image](https://user-images.githubusercontent.com/52088444/231493365-8d7f6a10-1a10-4503-a079-6412fe074d81.png)
+![image](https://user-images.githubusercontent.com/52088444/231493465-e899ae1b-311b-4572-a792-d9abe59e58ac.png)
+
 
 ## E como transformar esses exemplos em bons objetivos de acordo com a metodologia OKR?
+![image](https://user-images.githubusercontent.com/52088444/231493566-f693ca60-b4cf-4a32-bbe2-758ece3f8a7d.png)
+Veja que todos esses novos objetivos propostos respondem a pergunta "O que queremos?" e dão maior direcionamento aos times. 
+
+## Todo objetivo deve ter um responsável. Mas, responsável por o quê?
+
+![image](https://user-images.githubusercontent.com/52088444/231494022-9787da21-870c-46a5-9eb5-57257161afe6.png)
+
+![image](https://user-images.githubusercontent.com/52088444/231494791-5c389ab1-bd05-4433-add8-725dbf45435f.png)
+
+Vemos que em nenhum dos quatro "super poderes" listados a responsabilidade do sucesso do objetivo recai sobre essa pessoa. A metodologia de OKR estimula a autonomia e a cooperação. E pra que isso ocorre na sua plenitude tanto o sucesso quanto o fracasso devem ser compartilhados. Não se estimula cooperação sem que a responsabilidade pelas vitórias e pelas derrotas também estejam sendo compartilhadas, muito menos premiando e valorizando apenas os gestores que lideram. Por isso, é preciso ter em mente que sem mudanças culturais profundas os OKR não vão criar o ambiente de transparência, alinhamento e cooperação que as empresas tanto buscam. 
+
+## Definindo Objetivos
+
+Bons objetivos devem seguir 4 grandes características:
+
+![image](https://user-images.githubusercontent.com/52088444/231496611-ecd99711-ade1-44ce-96bf-62bc4cae7964.png)
+
+
+Objetivo Qualitativo = não tem numero nem meta atrelado
+Simples e de claro entendimento = para que as pessoas que trabalham com eles não se confundam
+Todo objetivo tem um um responsável, mantendo alinhamento entre as pessoas, métricas atualizadas e comunicação com a empresa, reuniões e as pessoas certas estão envolvidas no objetivo ou seja a pessoa que advoga em prol do sucesso do objetivo
+Prazo (todo inicio e fim já prevês um periodo de tres meses de VALIAÇÃO
+
+NÃO CORRETOS
+
+![image](https://user-images.githubusercontent.com/52088444/231496889-b40d5cec-a3af-4477-a95d-8d7988f47197.png)
+
+
+CORRETOS
+
+![image](https://user-images.githubusercontent.com/52088444/231497215-8c59d81c-3567-4ed2-abb9-64400558b211.png)
+
 
 
 ## Referencias
