@@ -242,24 +242,28 @@ Fundamentos para se criar boas metas
 Tipos de Metas
 
 Tipo                            |    Características
-ROOFSHOT(tiros no telhado)      |     são as metas difíceis, mas possíveis de serem realizadas. Entende-se que um objetivo roofshot é atingido quando os key results                                 |     são 100% concluídos. a distribuição de metas será de 85 a 90% distribuídos dentro da minha organização    
-                                |     Exigem melhorias incrementais. Ex: Ajustes de processos, conserto de bugs, teste A/B para avaliar novas funcionalidades     
-                                |     e formatos que convertem mais.
+ROOFSHOT(tiros no telhado)      |     são as metas difíceis, mas possíveis de serem realizadas. Entende-se que um
+                                |     objetivo roofshot é atingido quando os key results são 100% concluídos.                                
+                                |     A distribuição de metas será de 85 a 90% distribuídos dentro da minha organização    
+                                |     Exigem melhorias incrementais. Ex: Ajustes de processos, conserto de bugs,    
+                                |     teste A/B para avaliar novas funcionalidades  e formatos que convertem mais.
                                 |     Exemplo: Reduzir o tempo médio de atendimento de 7 dias para 5 dias(redução de 28.5%)
-                                |     Revisar como os problemas estão sendo catalogados, ajustar as filas de atendimento e os processos de encaminhamento
-                                |     de ticket, analisar primeiramente como está o processo
+                                |     Revisar como os problemas estão sendo catalogados, ajustar as filas de 
+                                |     atendimento e os processos de encaminhamentode ticket, analisar primeiramente como está o processo
                                 |     Quando usar cada uma?
                                 |     Pouca maturidade, times em formação ou times com posição mais junior, ou com recursos limitados  
                                 |
-moonshot( tiro para a lua)      |     são metas mais ambiciosas que deslocam o time da zona de conforto de forma significativa e quase nem sempre são atingidos em                                   |     sua integralidade-> 60 a 70 % atingimento, a distribuição de metas será de 10 a 15% distribuidos dentro da minha organização
-                                |     Exigem melhorias disruptivas, Revisar todo o processo, adquirir uma máquina ou software novo, ccontratar pessoas/serviços
-                                |     especializados.
+moonshot( tiro para a lua)      |     são metas mais ambiciosas que deslocam o time da zona de conforto de forma 
+                                |     significativa e quase nem sempre são atingidos em sua integralidade-> 60 a 70 % atingimento, 
+                                |     a distribuição de metas será de 10 a 15% distribuidos dentro da minha organização
+                                |     Exigem melhorias disruptivas, Revisar todo o processo, adquirir uma máquina ou 
+                                |     software novo, ccontratar pessoas/serviços especializados.
                                 |     Exemplo: Reduzir o tempo médio de atendimento de 7 dias para 1 h(redução de 99.4%)
-                                |     Capacitar os atendentes e dar ferramental para que eles possam resolver sozinhos o problema e não delegar para
-                                |     outros times
+                                |     Capacitar os atendentes e dar ferramental para que eles possam resolver sozinhos 
+                                |     o problema e não delegar para outros times
                                 |     Quando usar cada uma?
-                                |     Times que possuem mais de 1 ano de formação, profissionais mais seniores e que podem ter acesso a 
-                                |     fontes adicionais de recursos.
+                                |     Times que possuem mais de 1 ano de formação, profissionais mais seniores e 
+                                |     que podem ter acesso a fontes adicionais de recursos.
 ## Referencias
 
 - https://www.mauricioboesche.com/post/n%C3%A3o-confunda-objetivo-com-iniciativa
