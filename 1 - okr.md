@@ -1,6 +1,8 @@
 # OKR
 
 O que significa? Obbjectives and Key Results(Objetivos e resultados Chaves).
+uma metodologia para orientar os esforços das empresas em direção a objetivos cruciais mensuráveis. O modelo de gestão por OKRs busca estabelecer direções claras para alcançar os números que indicam o crescimento de um negócio.
+
 
 Para que serve? Metodologia de Planejamento e Gestão empresarial. Ele além de um sistema de definição de metas, sistema de gestão ele ainda provoca mudanças/transformações profundas na cultura organizacional.
 
