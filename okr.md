@@ -266,6 +266,94 @@ Tipos de Metas
 |                              | Quando usar cada uma? Times que possuem mais de 1 ano de formação, profissionais mais |                                             
 |                              | seniores e que podem ter acesso a fontes adicionais de recursos.                      |
 
+## OKR Compartilhado
+
+- Processo de Execução dos Objetivos
+   ![image](https://user-images.githubusercontent.com/52088444/231757385-8584a7fc-78e4-44a1-a38f-2f8deff566f1.png)
+   
+   No OKR Simples estamos falando de times que conseguem propor iniciativas e exeutar essas iniciativas de forma independente para atacar um objetivo, cada time tem um objetivo. O atingimento do Objetivo depende exclusivamente de 1 time.
+   
+   No OKR Compartilhado, para que um objetivo tenha sucesso precisamos da colaboração de todos os times.  O atingimento do Objetivo depende das ações conjuntas de 2 ou mais times.
+   
+   ![image](https://user-images.githubusercontent.com/52088444/231758292-9ec7039c-476a-42f3-811e-27b22aa97dbe.png)
+Para que um objetivo obtenha sucesso ele precisa que todos trabalhem em conjunto. Os 4 times tem o mesmo objetivo: Lançar com sucesso a nova campanha de marketing
+
+OKRs compartilhados nos alinham em torno dos resultados 
+É por isso que um dos princípios fundamentais de OKR é que alinhamos  em torno dos resultados, não dos silos. Começamos pensando no que queremos alcançar e, em seguida, alinhamos nossos OKRs com outros indivíduos ou equipes – mesmo que eles trabalhem em outras funções, departamentos ou unidades de negócios.
+
+As abordagens tradicionais geralmente se concentram no alinhamento vertical: garantir que suas metas se alinhem com as metas da sua chefe e com as metas da chefe dela, o que pode criar silos. OKR foca no alinhamento 360º – para cima, para baixo e para os lados – eliminando silos e resolvendo interdependências.
+
+Os OKRs compartilhados são a ferramenta mais eficaz para criar alinhamento entre diferentes times ou funções. Em um OKR compartilhado, dois ou mais times compartilham o mesmo OKR, mas cada um possui atividades diferentes. Você pode compartilhar todo o OKR (ou seja, o Objetivo e um conjunto de Key Results) ou pode compartilhar apenas um único KR.
+
+Quando você decide um OKR compartilhado, está criando uma equipe ad hoc que durará enquanto você tiver esse OKR compartilhado. Pense nisso como ativar um “squad virtual” com todas os times / indivíduos necessários para atingir o OKR compartilhado.
+
+## Por que os OKR não deram certo? Saiba 5 motivos que levam ao insucesso da metodologia.
+
+Motivo 1: Erros de conceito e de execução
+
+Muitas empresas decidem se aventurar na adoção dos OKR sem a assessoria de um profissional experiente e acabam simplificando a metodologia a um conjunto de metas extremamente ambiciosas (moonshots). Sem o devido treinamento e nivelamento de conceitos, muitas se perdem em temas básicos, como: confundir objetivo com iniciativa, KR (resultado-chave) com KPI (métrica de controle), iniciativa com KR (resultado-chave) e praticamente ignoram as cerimônias de revisão dos OKR. Esses erros de estrutura e de execução acabam sendo decisivos para o insucesso dos OKR. 
+
+
+Contudo, existem outros 4 motivos que prejudicam inclusive empresas que já possuem domínio pleno da metodologia. Esses 4 motivos basicamente formam os pilares e a base de sustentação  dos OKR representados na figura abaixo. 
+![image](https://user-images.githubusercontent.com/52088444/231759367-b6f4709b-edf1-41ee-bb07-09049400d4e7.png)
+
+* Pricing é o ato de colocar preços, mas também se refere à área de precificação em níveis operacionais, táticos e estratégicos das empresas.
+Motivo 2: Falta de clareza na estratégia
+
+O ponto de partida é saber diferenciar estratégia de planejamento e entender qual o papel que cada um exerce na construção de um modelo de gestão ágil. Existem perguntas chaves que toda boa estratégia deve responder. Não ter clareza dessas respostas é induzir os times a navegarem às cegas. Cada time passa a ter a sua própria interpretação sobre os rumos e os caminhos do negócio e o desalinhamento está formado. Além disso, muitas empresas iniciam a construção da gestão pelo planejamento, elaborando projeções de receita e de lucro e depois tentam "encaixar" uma estratégia. Isso definitivamente não funciona. A estratégia precede o planejamento. Portanto, sem clareza na estratégia, o exercício do planejamento torna-se improdutivo. 
+
+Motivo 3: Planejamento difuso
+
+Boa parte do esforço de gestão das empresas está dedicado ao planejamento financeiro e orçamentário, que são extremamente importantes, mas traduzem apenas uma das dimensões do planejamento. Além disso, muitas projeções contemplam produtos ainda inexistentes, os quais não possuem um modelo de monetização e de precificação estabelecido, o que enfraquece  ainda mais a consistência do exercício. Boas empresas operam com pelo menos 5 dimensões que se complementam e mitigam potenciais incentivos perversos. Podemos classificar essas dimensões da seguinte forma: monetização, rentabilidade, aquisição e retenção, controle de investimentos e experiência e satisfação. É possível incluir outras dimensões. Contudo, sem uma mínima avaliação conjunta e contínua dessas apresentadas a gestão do planejamento torna-se míope e a posterior proposição dos OKR tende a seguir um viés 100% financeiro, que pouco orienta e que pouco contribui para o direcionamento dos times.    
+
+
+Motivo 4: Processos e times não-ágeis
+
+Por mais que a empresa tenha uma boa estratégia e um robusto planejamento, sem uma rotina de processos e de times trabalhando de forma ágil os resultados esperados com os OKR não irão acontecer. Muito comum empresas tentarem usar os OKR como modelo de gestão, mas seguirem usando métodos tradicionais de gerenciamento de projetos e de formação de times. Essa combinação definitivamente não funciona. Um modelo de gestão ágil demanda um ambiente ágil. Esse ambiente precisa perseguir princípios que: coloquem o individuo e interações acima de processos e ferramentas; estimulem produtos e serviços funcionais acima de burocracia; coloquem o cliente acima de qualquer escolha e decisão; e que estimulem os times a responderem a mudanças de forma rápida sem se aterem a planos rígidos. A ausência dessas condições prejudica diretamente o sucesso da adoção dos OKR.      
+
+
+Motivo 5: Cultura organizacional fragilizada
+
+Por fim, e formando a base de sustentação do modelo proposto temos a cultura organizacional. Pessoas seguem sendo os protagonistas do sucesso de qualquer negócio. Por mais que a automação tenha substituído parte de uma antiga mão de obra, várias novas funções surgiram com a digitalização empresarial e a cultura tornou-se o maior ativo. Criar uma cultura forte que estimule inovação, cooperação e impulsione os resultados é o grande desafio. Uma cultura que não promove relações com base na confiança, feedback contínuo e em todos os níveis, que possui uma liderança omissa e pouco engajada e que pratica incentivos financeiros com base no desempenho individual em detrimento dos resultados coletivos não terá sucesso na adoção dos OKR. Toda estrutura acima vai desabar. 
+
+## OKR Estratégico VS okr Tático
+
+![image](https://user-images.githubusercontent.com/52088444/231760272-fb4bbdb0-2948-4ab6-90df-41ac4f6bad6c.png)
+
+![image](https://user-images.githubusercontent.com/52088444/231760787-d31a5639-c9b2-477c-8bbc-cce262b54f65.png)
+
+Temos sobreposição dos times
+
+OKRS nunca cascateia, OKRS se alinham.
+
+![image](https://user-images.githubusercontent.com/52088444/231762187-043f1484-b80b-40f8-8ab1-5bfc5096ee1e.png)
+
+- big bets: principais apostas
+- okrs táticos os times olham
+- OKR estratégico nos responde quais são nossas prioridades e principais apostas
+- OKR Tático como os times olham pra os OKRS estratégicos e pensam como eles podem contribuir.
+
+![image](https://user-images.githubusercontent.com/52088444/231762545-715ec52b-676f-4a70-9539-ec9cf68f48c6.png)
+foi criado dois KR, o objetivo anual.
+
+![image](https://user-images.githubusercontent.com/52088444/231765666-802a5206-3a1d-471a-920a-73258a14dd63.png)
+
+*SLA Métrica tempo de atendimento
+
+## OKRs não listam objetivos. OKRs comunicam prioridades.
+Quando John Doerr fala em seu livro Measure What Matters (Avalie o que importa) que um dos superpoderes dos OKR é promover foco e comprometimento com prioridades, ele está sendo explícito sobre a necessidade de se fazer escolhas. Não fazer escolhas já é uma escolha e utilizar os OKR como ferramenta de listagem de todos os objetivos almejados é a escolha de não pôr em prática o maior dos seus superpoderes.
+
+
+Toda empresa tem uma lista de ambições: crescer, monetizar, lançar novos produtos, duplicar times de tech, promover um atendimento de qualidade e escalável, reduzir bugs, aumentar a segurança, ser a marca mais lembrada, ser a melhor empresa para os colaboradores..e por aí vai. Almejar esses objetivos não é um problema. Priorizar todos ao mesmo tempo, é o que torna o desafio insustentável.  
+
+Isso quer dizer que a empresa não deve perseguir todos esses objetivos?
+
+Não. Isso quer dizer que nenhuma empresa tem capacidade de executar todos esses objetivos ao mesmo tempo com a mesma intensidade e gerar bons resultados.
+
+Então, qual seria o número ótimo de objetivos estratégicos e táticos que uma empresa deve perseguir em cada ciclo de OKRs?
+Essa resposta vai depender da estrutura organizacional, do modelo de negócios, dos recursos e da capacidade de execução que a empresa possui. Porém, a recomendação básica que faço para empresas que estão começando a adotar OKRs é: 1 objetivo global + 1 objetivo estratégico por área funcional + 1 objetivo tático por equipe. Empresas com mais maturidade na metodologia e com boa capacidade de execução conseguem atribuir mais objetivos. Porém, se a empresa está começando, faça o básico. 
+
+A essência da estratégia é escolher o que NÃO fazer. (Michael Porter)
 
 
 ## Referencias
@@ -274,6 +362,7 @@ Tipos de Metas
 - https://www.mauricioboesche.com/post/todo-objetivo-deve-ter-um-respons%C3%A1vel-mas-respons%C3%A1vel-por-o-qu%C3%AA
 - https://www.mauricioboesche.com/post/okr-e-covid-19-como-a-metodologia-pode-ajudar-empresas-a-serem-mais-%C3%A1geis-e-eficientes-na-pandemia
 - https://www.mauricioboesche.com/post/okrs-e-os-3e-s-da-gest%C3%A3o-empresarial-efic%C3%A1cia-efici%C3%AAncia-e-efetividade
-- 
+- https://www.mauricioboesche.com/post/por-que-os-okr-n%C3%A3o-deram-certo
+- https://www.mauricioboesche.com/post/okrs-n%C3%A3o-listam-objetivos-okrs-comunicam-prioridades
 
 
