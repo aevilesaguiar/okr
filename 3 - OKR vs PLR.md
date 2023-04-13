@@ -29,7 +29,25 @@ A grande proposta dos OKRS é visar uma mudança de patamar.
 Se a resposta for não podemos usar o modelo de KPI, 
 Se a resposta for sim, Temos que fazer uma próxima pergunta.
 Já definimos as iniciativas que iremos implementar?
+se a resposta for não, não sabemos, precisamos validar as hipóteses, testar outras alternativas para poder encontrar as melhores alternativas agente segue usando o modelo de OKR.
+Se a resposta for sim, já temos os projetos, as entregas definidas, agente precisa fazer uma nova pergunta.
+Os times podem alterar/eliminar/adicionar iniciativas?
+Se a resposta for não os times não podem alterar/eliminar/adicionar iniciativas termos que usar o modelo de KPI.
+Agora se for sim, Os times podem alterar/eliminar/adicionar iniciativas seguimos usando o modelo de OKR.
 
+![image](https://user-images.githubusercontent.com/52088444/231794731-2481fcbf-904f-4cb1-a0f7-be17b8456726.png)
+
+Com KPI buscamos uma lógica de comando e controle, então quero garantir que a entrega vai ser feita da forma como ela foi concebida no prazo que foi concebido
+no custo que foi determinado. quando usamos OKR  gente busca muito mais dar autonomia e autogestão para que os times definam as melhores escolhas a nível de portfólio de iniciativas e que eles consigam se auto gerir para definir se aquela é a melhor escolha ou não.
+No modelo de KPI nós temos modelos pré-definidos, A gente tem rotinas a gente tem projetos no OKR agente ainda tá passando por um processo de teste e validação de hipóteses, agente pode sim  ter algumas certezas, mas trabalhamos com um ambiente muito mais volátil, Agente usa KPI aonde sabemos qual é o padrão que vamos desenvolver e temos previsibilidade sobre o que vai ser feito e o resultado que eu vou atingir com base no que eu vou fazer. No OKR temos incertezas e volatilidade. 
+KPI foca muito mais na entrega já OKR eu foco no resultado entendendo que eu vou ter um caminho de incerteza e volatilidade mas que eu vou chegar a um bom resultado
+através de autonomia e autogestão dos times para que eles definam as melhores iniciativas.
+
+![image](https://user-images.githubusercontent.com/52088444/231797275-37581efd-517a-4f21-8f7e-8836b7a84a63.png)
+
+
+
+![image](https://user-images.githubusercontent.com/52088444/231797958-49f62c92-e2c6-46b6-a51b-351080e599cb.png)
 
 
 
