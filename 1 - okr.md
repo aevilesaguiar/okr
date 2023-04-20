@@ -366,5 +366,6 @@ A essência da estratégia é escolher o que NÃO fazer. (Michael Porter)
 - https://www.mauricioboesche.com/post/okrs-e-os-3e-s-da-gest%C3%A3o-empresarial-efic%C3%A1cia-efici%C3%AAncia-e-efetividade
 - https://www.mauricioboesche.com/post/por-que-os-okr-n%C3%A3o-deram-certo
 - https://www.mauricioboesche.com/post/okrs-n%C3%A3o-listam-objetivos-okrs-comunicam-prioridades
+- https://coblue.com.br/blog/okr-exemplos/
 
 
